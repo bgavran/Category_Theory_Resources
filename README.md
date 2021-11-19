@@ -12,12 +12,16 @@ Let me know what's missing- preferably by creating a pull request!
 * [Draft of "Categorical Systems Theory"](http://davidjaz.com/Papers/DynamicalBook.pdf) by Jaz Myers
 * [Category theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) by Spivak
 * [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) by Bradley
+* [Category Theory: A Gentle Introduction](https://www.logicmatters.net/resources/pdfs/GentleIntro.pdf) by Smith
+* [Draft of "Category Theory for Computer Science"](http://pages.cpsc.ucalgary.ca/~robin/class/617/notes.pdf) by Cockett
 
 # Video lectures
 * [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [The Catsters](https://www.youtube.com/user/TheCatsters)
 * [Applied Category Theory at Topos Institute](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 * [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
+* [Category Theory Background](https://www.youtube.com/playlist?list=PLiHLLF-foEexKDi7tmiO5tP8Uxt0ueK-L)
+* [Category Theory Foundations](https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb)
 
 # Blog posts
 * [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway)
