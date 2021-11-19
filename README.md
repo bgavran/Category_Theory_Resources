@@ -18,6 +18,7 @@ Let me know what's missing- preferably by creating a pull request!
 * [The Catsters](https://www.youtube.com/user/TheCatsters)
 * [Applied Category Theory at Topos Institute](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 * [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
+* [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 
 # Blog posts
 * [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway)
