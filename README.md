@@ -22,3 +22,4 @@ Let me know what's missing- preferably by creating a pull request!
 # Blog posts
 * [What is category theory, anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway)
 * [On compositionality](https://julesh.com/2017/04/22/on-compositionality/)
+* [Mark Seemann's article series](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
