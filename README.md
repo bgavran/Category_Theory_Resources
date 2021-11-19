@@ -9,7 +9,7 @@ Let me know what's missing- preferably by creating a pull request!
 * [Conceptual Mathematics: A First Introduction to Categories](https://s3.amazonaws.com/arena-attachments/325201/2ff932bf546d8985eb613fccf02b69c7.pdf) by Schanuel, Lawvere
 * [Category theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/) by Milewski
 * [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf) by Spivak, Niu
-* [Draft of "Categorical Systems Theory](http://davidjaz.com/Papers/DynamicalBook.pdf) by Jaz Myers
+* [Draft of "Categorical Systems Theory"](http://davidjaz.com/Papers/DynamicalBook.pdf) by Jaz Myers
 * [Category theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) by Spivak
 * [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) by Bradley
 
