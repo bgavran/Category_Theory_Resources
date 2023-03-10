@@ -17,6 +17,7 @@ Let me know what's missing- preferably by creating a pull request!
 * [Draft of "Categorical Systems Theory"](http://davidjaz.com/Papers/DynamicalBook.pdf) by Jaz Myers
 * [Category theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) by Spivak
 * [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) by Bradley
+* [The Joy of Abstraction](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) by Eugenia Cheng
 
 # Video lectures
 * [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
