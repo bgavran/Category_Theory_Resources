@@ -19,9 +19,12 @@ Let me know what's missing- preferably by creating a pull request!
 * [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) by Bradley
 * [The Joy of Abstraction](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) by Eugenia Cheng
 
-# Video lectures
-* [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
-* [The Catsters](https://www.youtube.com/user/TheCatsters)
+# Lectures
+* [John Baez's course on Applied Category Theory](https://math.ucr.edu/home/baez/act_course/)
 * [Applied Category Theory at Topos Institute](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+* [The Catsters](https://www.youtube.com/user/TheCatsters)
+* [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
+
+# Videos
 * [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
