@@ -18,6 +18,7 @@ Let me know what's missing- preferably by creating a pull request!
 * [Category theory for the Sciences](https://mitpress.mit.edu/books/category-theory-sciences) by Spivak
 * [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923) by Bradley
 * [The Joy of Abstraction](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) by Eugenia Cheng
+* [Categories and Compositionality with a view to Applications (WIP)](https://github.com/ACT4E/ACT4E#applied-category-theory-for-engineering-act4e) by Censi, Lorand, and Zardini
 
 # Lectures
 * [John Baez's course on Applied Category Theory](https://math.ucr.edu/home/baez/act_course/)
@@ -25,6 +26,10 @@ Let me know what's missing- preferably by creating a pull request!
 * [The Catsters](https://www.youtube.com/user/TheCatsters)
 * [Bartosz Milewski's video lectures](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Programming with Categories](https://www.youtube.com/watch?v=NUBEB9QlNCM)
+* [Categorical mathematics and software engineering for compositional modeling and simulation](https://www.youtube.com/playlist?list=PLcAxwev2PmV8ZwUdqoX0GEPzxxlwKOuOc)
+* [Category Theoretic Agent-Based Modeling](https://www.youtube.com/playlist?list=PLcAxwev2PmV8cvMeGKvX4O1upUgEUcb6H)
 
 # Videos
 * [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
+* [David Spivak - Plausible Fiction: Accounting for Actualizing Potential](https://www.youtube.com/watch?v=wDB26DFATAU)
+* [[Berkeley Seminar] Evan Patterson: Collaborative modeling with domain-specific categorical logics](https://www.youtube.com/watch?v=-RE0TiGdq5E)
