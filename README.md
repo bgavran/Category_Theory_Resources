@@ -33,3 +33,7 @@ Let me know what's missing- preferably by creating a pull request!
 * [Category Theory, The essence of interface-based design - Erik Meijer](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [David Spivak - Plausible Fiction: Accounting for Actualizing Potential](https://www.youtube.com/watch?v=wDB26DFATAU)
 * [[Berkeley Seminar] Evan Patterson: Collaborative modeling with domain-specific categorical logics](https://www.youtube.com/watch?v=-RE0TiGdq5E)
+
+# Other lists of CT resources
+* [Category theory: online lecture notes, etc.](https://www.logicmatters.net/categories/)
+* [Learning Resources for Applied Category Theory](https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285)
